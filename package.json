@@ -1,0 +1,18 @@
+{
+  "title": "Shell Wallpapers",
+  "id": "wallpaper@anima-os.com",
+  "name": "wallpaper",
+  "version": "0.0.1",
+  "description": "Wallpapers for about:newtab",
+  "main": "bootstrap.js",
+  "author": "Mark Bauermeister",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "system",
+    "wallpapers"
+  ]
+}
